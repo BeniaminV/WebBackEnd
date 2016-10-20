@@ -80,7 +80,7 @@
 
           <div class="mastfoot">
             <div class="inner">
-              <p>Developed by Beni Voian & Designed by Vadim Rob</p>
+              <p>Developed by Beni Voian</p>
             </div>
           </div>
 
